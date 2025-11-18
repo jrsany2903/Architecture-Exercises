@@ -15,7 +15,9 @@ Generated: In the year 2030, the U.S. will have an estimated 3.5 billion pounds 
 Prompt: The secret to happiness is
 Generated: The secret to happiness is to become a human being.
 
-LEVEL 2: ✅ [Code link] [Results link]
+LEVEL 2: ✅ 
+Link to code: https://github.com/jrsany2903/Architecture-Exercises/blob/main/week3/diagnostic_task%20task2%20snapshot.py
+Link to results: 
 - Brief summary of findings
 
 LEVEL 3: ✅ [Option A/B/C/D]
