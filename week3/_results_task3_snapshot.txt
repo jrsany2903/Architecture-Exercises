@@ -1,0 +1,469 @@
+Prompt:apple
+Generated with distilgpt2:
+apple The new Apple Watch is designed to be a smartwatch that can be used to watch a lot of things.
+Time to generate: 3.5666708946228027
+Number of tokens: 140
+The repetition score: 0.2972972972972973
+
+
+Prompt:apple apple
+Generated with distilgpt2:
+apple apple cider vinegar, and a few other ingredients.
+Time to generate: 3.617947578430176
+Number of tokens: 135
+The repetition score: 0.18211920529801323
+
+
+Prompt:apple apple apple
+Generated with distilgpt2:
+apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple
+Time to generate: 3.5601160526275635
+Number of tokens: 259
+The repetition score: 0.003219575016097875
+
+
+Prompt:My favoutite food is
+Generated with distilgpt2:
+My favoutite food is a great choice for your family. I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of the food and I’ve always been a fan of
+Time to generate: 3.561673641204834
+Number of tokens: 262
+The repetition score: 0.09090909090909091
+
+
+Prompt:1 + 1 = 2
+Generated with distilgpt2:
+1 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2 + 1 = 2
+Time to generate: 3.638392448425293
+Number of tokens: 261
+The repetition score: 0.0019193857965451055
+
+
+Prompt:asjfjasfopja
+Generated with distilgpt2:
+asjfjasfopja@gmail.com
+Time to generate: 0.17539238929748535
+Number of tokens: 11
+The repetition score: 0.045454545454545456
+
+
+Prompt:1234567890
+Generated with distilgpt2:
+1234567890/
+Time to generate: 3.471282720565796
+Number of tokens: 133
+The repetition score: 0.041353383458646614
+
+
+Prompt:
+Generated with distilgpt2:
+.
+Time to generate: 3.514538288116455
+Number of tokens: 129
+The repetition score: 0.00390625
+
+
+Prompt:                               
+Generated with distilgpt2:
+
+Time to generate: 3.59816575050354
+Number of tokens: 287
+The repetition score: 0.0
+
+
+Prompt:User: What is the capital of France?
+Agent: The capital of France is 
+Generated with distilgpt2:
+User: What is the capital of France?
+Agent: The capital of France is сайствия просствия просствия просствия просствия просствия просствия просствия просствия просствия просствия просствия проствия проствия проствия проствия проствия проствия проствия проствия проствия проствия проствия проствия проствия проствия проствия п
+Time to generate: 3.560448408126831
+Number of tokens: 274
+The repetition score: 0.5833333333333334
+
+
+
+=================
+Average score for distilgpt2 = 0.12495120665635699
+============
+Prompt:apple
+Generated with gpt2:
+apple.com/en/media/catalog/product/8/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/
+Time to generate: 5.454946994781494
+Number of tokens: 257
+The repetition score: 0.13261648745519714
+
+
+Prompt:apple apple
+Generated with gpt2:
+apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple
+Time to generate: 5.495201110839844
+Number of tokens: 258
+The repetition score: 0.003232062055591467
+
+
+Prompt:apple apple apple
+Generated with gpt2:
+apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple
+Time to generate: 5.629323244094849
+Number of tokens: 259
+The repetition score: 0.003219575016097875
+
+
+Prompt:My favoutite food is
+Generated with gpt2:
+My favoutite food is the chicken, and I'm not sure if it's a good choice for me. I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+
+I'm not sure if it's a good choice for me.
+Time to generate: 5.448492050170898
+Number of tokens: 262
+The repetition score: 0.15816326530612246
+
+
+Prompt:1 + 1 = 2
+Generated with gpt2:
+1 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1 = 2.7 + 1
+Time to generate: 5.7396018505096436
+Number of tokens: 261
+The repetition score: 0.011494252873563218
+
+
+Prompt:asjfjasfopja
+Generated with gpt2:
+asjfjasfopja.
+
+The team is also working on a new way to use the data to create a new version of the app.
+
+The team is also working on a new way to use the data to create a new version of the app. The team is also working on a new way to use the data to create a new version of the app. The team is also working on a new way to use the data to create a new version of the app.
+
+The team is also working on a new way to use the data to create a new version of the app. The team is also working on a new way to use the data to create a new version of the app.
+
+The team is also working on a new way to use the data to create a new version of the app. The team is also working on a new way to use the data to create a new version of the app.
+
+The team is also working on a new way to use the data to create a new version of the app. The team is also working on a new way to use the data to create a new version of the app.
+
+The team is also working on a new way to use the data to create a new version of the app. The
+Time to generate: 6.132991075515747
+Number of tokens: 263
+The repetition score: 0.10661401776900296
+
+
+Prompt:1234567890
+Generated with gpt2:
+123456789064991424
+
+"The first time I saw this, I was like 'wow, this is amazing!'"
+
+The first time I saw this, I was like 'wow, this is amazing!'"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"I love it!"
+
+"
+Time to generate: 5.582021236419678
+Number of tokens: 260
+The repetition score: 0.2631578947368421
+
+
+Prompt:
+Generated with gpt2:
+The official website for the upcoming anime adaptation of the manga by Masashi Kishimoto, Shueisha's Shueisha's Shueisha's Shueisha's announced on Monday that the anime will premiere on October 17.
+
+The anime will be directed by Masashi Kishimoto ( Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Shueisha's Sh
+Time to generate: 5.663592338562012
+Number of tokens: 214
+The repetition score: 0.32686567164179103
+
+
+Prompt:                               
+Generated with gpt2:
+
+Time to generate: 5.7307634353637695
+Number of tokens: 287
+The repetition score: 0.0
+
+
+Prompt:User: What is the capital of France?
+Agent: The capital of France is 
+Generated with gpt2:
+User: What is the capital of France?
+Agent: The capital of France is  France.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Agent: France is the capital of the world.
+Time to generate: 5.566677808761597
+Number of tokens: 274
+The repetition score: 0.07223264540337711
+
+
+
+=================
+Average score for gpt2 = 0.10775958722575854
+============
+Prompt:apple
+Generated with gpt2-medium:
+apple.com/en-US/Product/The-Witcher-3-Online-Beta/00000000-0000-400c-80cf-00066d263dfb?cid=SLink Click to create and send a link using your email application
+
+The Witcher 3 Online Beta is now available for download on PC, PS4, and Xbox One. The game is available now for PC, PS4, and Xbox One. The game is available now for PC, PS4, and Xbox One.
+Time to generate: 5.373044490814209
+Number of tokens: 106
+The repetition score: 0.6936416184971098
+
+
+Prompt:apple apple
+Generated with gpt2-medium:
+apple apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple_apple
+Time to generate: 12.744796752929688
+Number of tokens: 258
+The repetition score: 0.014120667522464698
+
+
+Prompt:apple apple apple
+Generated with gpt2-medium:
+apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple
+Time to generate: 13.019178628921509
+Number of tokens: 259
+The repetition score: 0.003219575016097875
+
+
+Prompt:My favoutite food is
+Generated with gpt2-medium:
+My favoutite food is the pizza. I love the crust, the cheese, the sauce, the toppings, the cheese sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza sauce, the pizza
+Time to generate: 12.866543054580688
+Number of tokens: 262
+The repetition score: 0.08818181818181818
+
+
+Prompt:1 + 1 = 2
+Generated with gpt2-medium:
+1 + 1 = 2.5
+
+The result is that the result of the multiplication is 2.5 times the original value.
+
+The result of the division is 2.5 times the original value.
+
+The result of the addition is 2.5 times the original value.
+
+The result of the subtraction is 2.5 times the original value.
+
+The result of the multiplication is 2.5 times the original value.
+
+The result of the division is 2.5 times the original value.
+
+The result of the addition is 2.5 times the original value.
+
+The result of the subtraction is 2.5 times the original value.
+
+The result of the multiplication is 2.5 times the original value.
+
+The result of the division is 2.5 times the original value.
+
+The result of the addition is 2.5 times the original value.
+
+The result of the subtraction is 2.5 times the original value.
+
+The result of the multiplication is 2.5 times the original value.
+
+The result of the division is 2.5 times the original value.
+
+The result of the addition is 2.5 times the original value.
+
+The result of the subt
+Time to generate: 12.96675181388855
+Number of tokens: 261
+The repetition score: 0.24251497005988024
+
+
+Prompt:asjfjasfopja
+Generated with gpt2-medium:
+asjfjasfopja/
+
+The first thing you notice when you walk into the church is that it's filled with people. The people are all wearing black, and they're all wearing black shoes. They're all wearing black. They're all wearing black. They're all wearing black. They're all wearing black. They're all wearing black. They're all wearing black. They're all wearing black. They're all wearing black. They're all wearing black. They're all wearing black. They're all wearing black. They're all wearing black. They're all wearing black. They're all wearing black. They're all wearing black. They're all wearing black.
+
+The church is filled with people. It's filled with people. It's filled with people. It's filled with people. It's filled with people. It's filled with people. It's filled with people. It's filled with people. It's filled with people. It's filled with people. It's filled with people. It's filled with people.
+
+The church is filled with people. It's filled with people. It's filled with people. It's filled with people. It's filled with people. It's filled with people. It's filled with people. It's filled
+Time to generate: 12.846451997756958
+Number of tokens: 263
+The repetition score: 0.5960502692998204
+
+
+Prompt:1234567890
+Generated with gpt2-medium:
+1234567890", "channelAvailability" : "BuyableInstoreAndOnline", "inventoryQuantity" : "0.0", "isSpecialOrderable" : "true", "soType" : "CTO", "soDeliveryDate" : "01/14/2019 - 01/17/2019", "quickShipAvailable" : "false", "ItemImage" : "/wcsstore//wcsstore/null/Set-F15749-10237112-Marine", "ItemImage467" : "/wcsstore//wcsstore/null/Set-F15749-10237112-Marine", "ItemThumbnailImage" : "/wcsstore//wcsstore/null/Set-F15749-10237112-Marine", "Attributes" : { "size_16":"2", "color_Marine":"1" } }, { "catentry_id" : "10237694", "channelAvailability" : "BuyableInstoreAndOnline", "inventoryQuantity" : "0.0", "isSpecialOrderable" : "true", "soType" : "CTO", "soDeliveryDate" : "01/14/2019 - 01/17/2019", "quickShipAvailable" : "false", "ItemImage" : "/wcsstore//wcsstore/null/Set-F15749-10237112-Marine", "ItemImage467" : "/wcsstore//wcsstore
+Time to generate: 12.868159294128418
+Number of tokens: 259
+The repetition score: 0.0011933174224343676
+
+
+Prompt:
+Generated with gpt2-medium:
+The story of how a young woman who was raped by a man she met online became a victim of online harassment and abuse.
+
+The story of how a young woman who was raped by a man she met online became a victim of online harassment and abuse.
+
+The story of how a young woman who was raped by a man she met online became a victim of online harassment and abuse.
+
+The story of how a young woman who was raped by a man she met online became a victim of online harassment and abuse.
+
+The story of how a young woman who was raped by a man she met online became a victim of online harassment and abuse.
+
+The story of how a young woman who was raped by a man she met online became a victim of online harassment and abuse.
+
+The story of how a young woman who was raped by a man she met online became a victim of online harassment and abuse.
+
+The story of how a young woman who was raped by a man she met online became a victim of online harassment and abuse.
+
+The story of how a young woman who was raped by a man she met online became a victim of online harassment and abuse.
+
+The story of how a young woman who was raped by a man
+Time to generate: 12.480026245117188
+Number of tokens: 256
+The repetition score: 0.04753363228699552
+
+
+Prompt:                               
+Generated with gpt2-medium:
+
+Time to generate: 13.010584831237793
+Number of tokens: 287
+The repetition score: 0.0
+
+
+Prompt:User: What is the capital of France?
+Agent: The capital of France is 
+Generated with gpt2-medium:
+User: What is the capital of France?
+Agent: The capital of France is _____.
+Agent: I'm not sure.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it.
+Agent: I'm not sure what to do with it
+Time to generate: 13.00587010383606
+Number of tokens: 274
+The repetition score: 0.1111111111111111
+
+
+
+=================
+Average score for gpt2-medium = 0.1797566979397732
+============
