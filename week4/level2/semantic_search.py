@@ -1,4 +1,5 @@
 import time
+import numpy as np
 
 try:
     from sentence_transformers import SentenceTransformer
@@ -35,7 +36,9 @@ search_queries = [
 with open("corpus.txt", "r", encoding="utf-8") as f:
     corpus_sentences = f.read().split(".")
     corpus_sentences = [s.strip() for s in corpus_sentences if s.strip()]
-    
+
+corpus_embeddings = None
+
 
 def main() -> None:
     print("=== LEVEL 2: Semantic seaching ===")
@@ -43,25 +46,31 @@ def main() -> None:
     model = SentenceTransformer(MODEL_NAME)
 
     start = time.perf_counter()
-    embeddings = model.encode(sentences, normalize_embeddings=True)
-    print(f"Encoded {len(sentences)} sentences in {time.perf_counter() - start:.2f}s")
+    embeddings = model.encode(search_queries, normalize_embeddings=True)
+    print(f"Encoded {len(search_queries)} sentences in {time.perf_counter() - start:.2f}s")
+
+    try:
+        corpus_embeddings = np.load("corpus_embeddings.npy")
+        print(f"Loaded corpus embeddings from file.")
+    except FileNotFoundError:
+        start = time.perf_counter()
+        corpus_embeddings = model.encode(corpus_sentences, normalize_embeddings=True)
+        print(f"Encoded {len(corpus_sentences)} sentences in {time.perf_counter() - start:.2f}s")
+
+        np.save("corpus_embeddings.npy", corpus_embeddings)
 
     # Cosine similarity matrix (vectors are L2-normalised, so dot product == cosine)
-    similarity = embeddings @ embeddings.T
+    similarity = embeddings @ corpus_embeddings.T#change this to be queries x corpus embeddings
 
-    with open("nearest_neighbours.txt", "w", encoding="utf-8") as f:
-        for idx, sentence in enumerate(sentences):
+    with open("search_examples.txt", "w", encoding="utf-8") as f:
+        for idx, query in enumerate(search_queries):
             row = similarity[idx]
-            others = [
-                (other_idx, score)
-                for other_idx, score in enumerate(row)
-                if other_idx != idx
-            ]
-            top_matches = sorted(others, key=lambda item: item[1], reverse=True)[:TOP_K]
+            results = [(c_idx, score) for c_idx, score in enumerate(row)]
+            top_matches = sorted(results, key=lambda item: item[1], reverse=True)[:TOP_K]
 
-            f.write(f"\nSentence [{idx}]: {sentence}\n")
+            f.write(f"\nQuery [{idx}]: {query}\n")
             for rank, (match_idx, score) in enumerate(top_matches, start=1):
-                f.write(f"  #{rank}  cosine={score:.3f}  →  [{match_idx}] {sentences[match_idx]}\n")
+                f.write(f"  #{rank}  cosine={score:.3f}  →  [{match_idx}] {corpus_sentences[match_idx]}\n")
 
 
 
